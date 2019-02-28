@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\GroceryPricing\GroceryPricing.csproj" />
+    <ProjectReference Include="..\GroceryPricing\GroceryPricing.csproj" />
   </ItemGroup>
 
 </Project>
